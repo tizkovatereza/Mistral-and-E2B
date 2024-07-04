@@ -5,8 +5,7 @@ The open-source [Code Interpreter SDK](https://github.com/e2b-dev/code-interpret
 
 To start building with E2B and Mistral, check out the examples in the [Mistral Cookbook](https://github.com/mistralai/cookbook). You can choose from a [Python](LINK_HERE) or [JavaScript/TypeScript](LINK_HERE) version.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bButR7yNiyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![E2B Introduction Video](http://img.youtube.com/vi/bButR7yNiyg/0.jpg)](http://www.youtube.com/watch?v=bButR7yNiyg)
 
 ### What is E2B?
 
