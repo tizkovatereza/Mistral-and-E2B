@@ -19,7 +19,7 @@ To get familiar with E2B, check out the [E2B docs](https://e2b.dev/docs) or [E2B
 
 
 ### Starting with Code Interpreter SDK
-The Code Interpreter SDK is E2B's special SDK tailor-made for AI data analysts, coding apps, and reasoning-heavy agents. The SDK quickly creates a secure cloud sandbox powered by [Firecracker](https://github.com/firecracker-microvm/firecracker). Inside this sandbox is a running Jupyter server that the LLM can use.
+The Code Interpreter SDK is E2B's special SDK tailor-made for AI data analysts, coding apps, and reasoning-heavy agents. The SDK quickly creates a secure cloud sandbox, and inside that is a running Jupyter server that the LLM can use.
 
 To start, get your E2B API key [here](https://e2b.dev/docs/getting-started/api-key) for free. Install the JavaScript & TypeScript SDK with:
 
