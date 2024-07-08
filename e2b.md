@@ -6,11 +6,11 @@ The open-source [Code Interpreter SDK](https://github.com/e2b-dev/code-interpret
 To start building with E2B and Mistral, check out the examples in the [Mistral Cookbook](https://github.com/mistralai/cookbook). You can choose from a [Python](LINK_HERE) or [JavaScript/TypeScript](LINK_HERE) version.
 
 ### AI data analyst with Codestral and E2B - Python version
-[![E2B Introduction Video](http://img.youtube.com/vi/PwWblfKJfUY/0.jpg)](https://www.youtube.com/watch?v=PwWblfKJfUY)
+[![E2B Introduction Video](http://img.youtube.com/vi/wjPvBr6HIxY/0.jpg)](https://www.youtube.com/watch?v=wjPvBr6HIxY)
 
 ### AI data analyst with Codestral and E2B - JS/TS version
 
-[![E2B Introduction Video](http://img.youtube.com/vi/O3mfKvwDfY0/0.jpg)](http://www.youtube.com/watch?v=O3mfKvwDfY0)
+[![E2B Introduction Video](http://img.youtube.com/vi/qZfa_Vxn8RI/0.jpg)](http://www.youtube.com/watch?v=qZfa_Vxn8RI)
 
 ### What is E2B?
 
