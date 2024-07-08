@@ -14,8 +14,9 @@ To start building with E2B and Mistral, check out the examples in the [Mistral C
 
 ### What is E2B?
 
-E2B provides an isolated sandbox environment for AI apps. It is the code interpreting layer where the LLM-generated code is executed. The SDKs by E2B have a Python and JavaScript/TypeScript version. E2B works with any LLM and all AI frameworks (e.g., LangChain, CrewAI, Autogen...)
-To get familiar with E2B, check out the [E2B docs](https://e2b.dev/docs) or [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook). If you need support [hello@e2b.dev](mailto:hello@e2b.dev).
+E2B makes running AI-generated code in secure and isolated sandbox environments easy with the [Code Interpreter SDK](https://github.com/e2b-dev/code-interpreter). The SDK has a Python and JavaScript/TypeScript version.
+E2B works with any LLM and any AI frameworks (e.g., [LangChain](https://github.com/e2b-dev/e2b-cookbook/tree/main/examples/langchain-python), LammaIndex, [Vercel AI SDK](https://github.com/e2b-dev/e2b-cookbook/tree/main/examples/nextjs-code-interpreter), CrewAI, [Autogen](https://github.com/e2b-dev/e2b-cookbook/tree/main/examples/e2b_autogen)).
+Check out the [E2B docs](https://e2b.dev/docs) and [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook/tree/main).
 
 
 ### Starting with Code Interpreter SDK
